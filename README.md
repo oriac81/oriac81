@@ -34,7 +34,7 @@ I combine **15+ years of experience** in international markets (Americas, UK, ME
 ---
 
 ## 🎓 Education
-- **Executive Master en Management y Visión Internacional (EMMV)** — ESADE Business School
+- **Executive Master en Management y Markwting (EMMV)** — ESADE Business School
 - Bootcamp Data Analytics (510h) — IT Academy / Barcelona Activa
 - Big Data Itinerary (220h) — CIFO Violeta
 - Business Administration (BBA equivalent)
